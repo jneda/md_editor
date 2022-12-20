@@ -28,6 +28,9 @@ Je connais aussi
 
 Ah oui ! Je sais donner [un lien vers le site toto.com](https://www.toto.com)
  
-| et faire une citation ?
+> et faire une citation ?
 
-(non)
+(oui)
+
+et montrer l'image d'une loutre
+![image d'une loutre](./loutre.jpg)
