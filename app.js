@@ -97,9 +97,9 @@ class Preview extends React.Component {
   }
 
   render() {
-    console.log(this.props.markdown);
+    // console.log(this.props.markdown);
     const content = marked.parse(this.props.markdown);
-    console.log(content);
+    // console.log(content);
     return (
       <div id="preview" dangerouslySetInnerHTML={{ __html: content }}></div>
     );
