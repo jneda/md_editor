@@ -3,8 +3,6 @@ Je sais **écrire en gras**, _en italique_, **_les deux à la fois_**, ~~ou en b
 
 Je sais aussi `// écrire du code en ligne`
 
-et
-
 ```
 function say($what) {
   echo $what;
