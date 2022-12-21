@@ -9,7 +9,7 @@ et
 function say($what) {
   echo $what;
 }
-say("ou bien sur plusieurs");
+say('ou bien sur plusieurs');
 ```
 (mais c'est un peu étrange).
 
